@@ -1,0 +1,726 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: hart.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: centimeters
+Artboard Dimensions: 21 cm x 29.7 cm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+PG Guesthouse DEMO Regular (OTF)
+TH SarabunPSK Italic (TrueType)
+TH SarabunPSK Bold (TrueType)
+TH SarabunPSK (TrueType)
+Century Gothic (OTF)
+MN Dok Khamfoi Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr._FB____250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 972K, 621 by 401 pixels
+Dimensions: 4.371 by 2.822 points 
+Resolution: 10230.258 by 10230.258 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Saneha_Art_Community__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 976K, 500 by 500 pixels
+Dimensions: 200.391 by 201.21 points 
+Resolution: 179.649 by 178.918 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 972K, 612 by 407 pixels
+Dimensions: 392.78 by 261.211 points 
+Resolution: 112.185 by 112.185 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr._FB___250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 974K, 500 by 499 pixels
+Dimensions: 254.14 by 253.632 points 
+Resolution: 141.654 by 141.654 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Hatyai_Focus__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 412.291 by 309.397 points 
+Resolution: 100.764 by 100.764 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM_._250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 406.347 by 304.936 points 
+Resolution: 102.238 by 102.238 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM____250415_4-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 973K, 744 by 335 pixels
+Dimensions: 578.163 by 264.411 points 
+Resolution: 92.652 by 91.222 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___250415_7-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 259.207 by 323.366 points 
+Resolution: 120.275 by 128.474 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM__cr._FB_Roylee_Suriyaworakul_250415_2-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 336.694 by 252.666 points 
+Resolution: 123.388 by 123.388 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___250415_9-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 300.901 by 378.672 points 
+Resolution: 103.609 by 109.71 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Padungpottery__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 536 by 466 pixels
+Dimensions: 281.863 by 245.053 points 
+Resolution: 136.918 by 136.918 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\p3074038318-4-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 362.485 by 302.151 points 
+Resolution: 114.609 by 103.18 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\jipMm-songkhla_central_mosque_thailand_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 424.275 by 360.59 points 
+Resolution: 97.918 by 86.458 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM____250415_6-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 312.936 by 417.007 points 
+Resolution: 99.624 by 99.624 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#13\LINE_ALBUM__250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 504K, 415 by 415 pixels
+Dimensions: 86.029 by 86.029 points 
+Resolution: 347.325 by 347.325 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\label-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 781K, 409 by 489 pixels
+Dimensions: 193.279 by 201.926 points 
+Resolution: 152.36 by 174.361 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\pngtree-neat-telephone-box-kept-phonebox-british-photo-image_310091-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 974K, 382 by 653 pixels
+Dimensions: 195.682 by 287.304 points 
+Resolution: 140.554 by 163.646 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\image-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 440.236 by 332.069 points 
+Resolution: 94.368 by 93.884 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#27\LINE_ALBUM_ cr. httpswww.tiscoart.comartists154_250415_4.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 565K, 500 by 386 pixels
+Dimensions: 232.268 by 181.415 points 
+Resolution: 154.993 by 153.196 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#7\LINE_ALBUM_space watashi_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 182.046 by 243.323 points 
+Resolution: 438.218 by 437.049 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#5\LINE_ALBUM__250415_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 271.487 by 360.555 points 
+Resolution: 293.848 by 294.945 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#3\LINE_ALBUM_Common Art Gallery_250415_3.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1477 by 1108 pixels
+Dimensions: 251.277 by 191.692 points 
+Resolution: 423.215 by 416.168 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#2\LINE_ALBUM_Saneha Art (cr. FB Saneha Art Community)_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4789K, 1566 by 1044 pixels
+Dimensions: 187.573 by 125.383 points 
+Resolution: 601.109 by 599.506 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Saneha_Art_Community__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 976K, 500 by 500 pixels
+Dimensions: 200.391 by 201.21 points 
+Resolution: 179.649 by 178.918 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 972K, 612 by 407 pixels
+Dimensions: 392.78 by 261.211 points 
+Resolution: 112.185 by 112.185 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr._FB___250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 974K, 500 by 499 pixels
+Dimensions: 254.14 by 253.632 points 
+Resolution: 141.654 by 141.654 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Hatyai_Focus__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 412.291 by 309.397 points 
+Resolution: 100.764 by 100.764 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM_._250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 406.347 by 304.936 points 
+Resolution: 102.238 by 102.238 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM____250415_4-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 973K, 744 by 335 pixels
+Dimensions: 578.163 by 264.411 points 
+Resolution: 92.652 by 91.222 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___250415_7-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 259.207 by 323.366 points 
+Resolution: 120.275 by 128.474 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM__cr._FB_Roylee_Suriyaworakul_250415_2-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 336.694 by 252.666 points 
+Resolution: 123.388 by 123.388 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___250415_9-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 300.901 by 378.672 points 
+Resolution: 103.609 by 109.71 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Padungpottery__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 536 by 466 pixels
+Dimensions: 281.863 by 245.053 points 
+Resolution: 136.918 by 136.918 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\p3074038318-4-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 362.485 by 302.151 points 
+Resolution: 114.609 by 103.18 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\jipMm-songkhla_central_mosque_thailand_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 424.275 by 360.59 points 
+Resolution: 97.918 by 86.458 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM____250415_6-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 312.936 by 417.007 points 
+Resolution: 99.624 by 99.624 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#13\LINE_ALBUM__250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 504K, 415 by 415 pixels
+Dimensions: 86.029 by 86.029 points 
+Resolution: 347.325 by 347.325 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\label-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 781K, 409 by 489 pixels
+Dimensions: 193.279 by 201.926 points 
+Resolution: 152.36 by 174.361 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\pngtree-neat-telephone-box-kept-phonebox-british-photo-image_310091-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 974K, 382 by 653 pixels
+Dimensions: 195.682 by 287.304 points 
+Resolution: 140.554 by 163.646 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\image-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 440.236 by 332.069 points 
+Resolution: 94.368 by 93.884 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#27\LINE_ALBUM_ cr. httpswww.tiscoart.comartists154_250415_4.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 565K, 500 by 386 pixels
+Dimensions: 232.268 by 181.415 points 
+Resolution: 154.993 by 153.196 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#7\LINE_ALBUM_space watashi_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 182.046 by 243.323 points 
+Resolution: 438.218 by 437.049 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#5\LINE_ALBUM__250415_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 271.487 by 360.555 points 
+Resolution: 293.848 by 294.945 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#3\LINE_ALBUM_Common Art Gallery_250415_3.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1477 by 1108 pixels
+Dimensions: 251.277 by 191.692 points 
+Resolution: 423.215 by 416.168 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#2\LINE_ALBUM_Saneha Art (cr. FB Saneha Art Community)_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4789K, 1566 by 1044 pixels
+Dimensions: 187.573 by 125.383 points 
+Resolution: 601.109 by 599.506 pixels per inch
+
+
+C:\Users\ACER\Downloads\Logo_RGB_HEX_ThaiHealth_2022_Logo_2Colors-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 602 by 415 pixels
+Dimensions: 57.615 by 39.718 points 
+Resolution: 752.31 by 752.31 pixels per inch
+
+
+C:\Users\ACER\Downloads\Lee_Garden_Plaza_Hotel-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 472K, 500 by 242 pixels
+Dimensions: 58.467 by 36.26 points 
+Resolution: 615.736 by 480.535 pixels per inch
+
+
+C:\Users\ACER\Downloads\images-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 196K, 224 by 224 pixels
+Dimensions: 47.844 by 47.844 points 
+Resolution: 337.094 by 337.094 pixels per inch
+
+
+C:\Users\ACER\Downloads\448900890_7624737894246578_8195769279868856454_n-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 156K, 200 by 200 pixels
+Dimensions: 54.034 by 54.034 points 
+Resolution: 266.498 by 266.498 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Saneha_Art_Community__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 976K, 500 by 500 pixels
+Dimensions: 200.391 by 201.21 points 
+Resolution: 179.649 by 178.918 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 972K, 612 by 407 pixels
+Dimensions: 392.78 by 261.211 points 
+Resolution: 112.185 by 112.185 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr._FB___250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 974K, 500 by 499 pixels
+Dimensions: 254.14 by 253.632 points 
+Resolution: 141.654 by 141.654 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Hatyai_Focus__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 412.291 by 309.397 points 
+Resolution: 100.764 by 100.764 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM_._250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 406.347 by 304.936 points 
+Resolution: 102.238 by 102.238 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM____250415_4-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 973K, 744 by 335 pixels
+Dimensions: 578.163 by 264.411 points 
+Resolution: 92.652 by 91.222 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___250415_7-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 259.207 by 323.366 points 
+Resolution: 120.275 by 128.474 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM__cr._FB_Roylee_Suriyaworakul_250415_2-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 336.694 by 252.666 points 
+Resolution: 123.388 by 123.388 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___250415_9-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 300.901 by 378.672 points 
+Resolution: 103.609 by 109.71 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM___cr.Padungpottery__250415_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 536 by 466 pixels
+Dimensions: 281.863 by 245.053 points 
+Resolution: 136.918 by 136.918 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\p3074038318-4-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 362.485 by 302.151 points 
+Resolution: 114.609 by 103.18 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\jipMm-songkhla_central_mosque_thailand_1-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 424.275 by 360.59 points 
+Resolution: 97.918 by 86.458 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\LINE_ALBUM____250415_6-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 433 by 577 pixels
+Dimensions: 312.936 by 417.007 points 
+Resolution: 99.624 by 99.624 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#13\LINE_ALBUM__250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 504K, 415 by 415 pixels
+Dimensions: 86.029 by 86.029 points 
+Resolution: 347.325 by 347.325 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\label-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 781K, 409 by 489 pixels
+Dimensions: 193.279 by 201.926 points 
+Resolution: 152.36 by 174.361 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\pngtree-neat-telephone-box-kept-phonebox-british-photo-image_310091-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 974K, 382 by 653 pixels
+Dimensions: 195.682 by 287.304 points 
+Resolution: 140.554 by 163.646 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\img\image-removebg-preview.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 975K, 577 by 433 pixels
+Dimensions: 440.236 by 332.069 points 
+Resolution: 94.368 by 93.884 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#27\LINE_ALBUM_ cr. httpswww.tiscoart.comartists154_250415_4.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 565K, 500 by 386 pixels
+Dimensions: 232.268 by 181.415 points 
+Resolution: 154.993 by 153.196 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#7\LINE_ALBUM_space watashi_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 182.046 by 243.323 points 
+Resolution: 438.218 by 437.049 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#5\LINE_ALBUM__250415_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 271.487 by 360.555 points 
+Resolution: 293.848 by 294.945 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#3\LINE_ALBUM_Common Art Gallery_250415_3.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1477 by 1108 pixels
+Dimensions: 251.277 by 191.692 points 
+Resolution: 423.215 by 416.168 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#2\LINE_ALBUM_Saneha Art (cr. FB Saneha Art Community)_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4789K, 1566 by 1044 pixels
+Dimensions: 187.573 by 125.383 points 
+Resolution: 601.109 by 599.506 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#27\LINE_ALBUM_ cr. httpswww.tiscoart.comartists154_250415_4.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 565K, 500 by 386 pixels
+Dimensions: 232.268 by 181.415 points 
+Resolution: 154.993 by 153.196 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#7\LINE_ALBUM_space watashi_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 182.046 by 243.323 points 
+Resolution: 438.218 by 437.049 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#5\LINE_ALBUM__250415_1.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1108 by 1477 pixels
+Dimensions: 271.487 by 360.555 points 
+Resolution: 293.848 by 294.945 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#3\LINE_ALBUM_Common Art Gallery_250415_3.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4794K, 1477 by 1108 pixels
+Dimensions: 251.277 by 191.692 points 
+Resolution: 423.215 by 416.168 pixels per inch
+
+
+C:\Users\ACER\Desktop\Workload\hatyai_dna\picture_artists\#2\LINE_ALBUM_Saneha Art (cr. FB Saneha Art Community)_250415_2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 4789K, 1566 by 1044 pixels
+Dimensions: 187.573 by 125.383 points 
+Resolution: 601.109 by 599.506 pixels per inch
