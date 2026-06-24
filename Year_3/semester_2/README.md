@@ -11,11 +11,11 @@ About this README
 Recommended README sections (fill in details):
 
 ## Project
-- Title: (insert from cover page)
+- Title: G4 Infrastucture Network
 - Course / Semester: Year 3 — Semester 2
 - Group: Group 4
-- Instructor: (name)
-- Date: (date)
+- Instructor: Asst. Prof. Touchai Angchaun
+- Date: Mar 15, 2026
 
 ## Executive summary
 - Provide a 3–5 sentence summary of the project's purpose, main design decisions, and outcomes.
