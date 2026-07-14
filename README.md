@@ -1,5 +1,5 @@
 # My-Project-in-University
-This is my project. I have been studying computer engineering for 4 years.
+This is my project. I have been studying computer engineering for 4 years. However, this repository is incomplete, thus it's not entirely my project.
 
 # Introduction
 Hi, I’m Jukrachai, a final year Computer Engineering student at Prince of Songkla University, Thailand. I love networks. How they break, how to fix them, how to make them more reliable.
