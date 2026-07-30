@@ -1,17 +1,37 @@
 # My-Project-in-University
-This is my project. I have been studying computer engineering for 4 years. However, this repository is incomplete, thus it's not entirely my project.
 
-# Introduction
-Hi, I’m Jukrachai, a final year Computer Engineering student at Prince of Songkla University, Thailand. I love networks. How they break, how to fix them, how to make them more reliable.
+This repository is a collection of coursework, designs, and certificates from my time studying Computer Engineering. It contains work from different years of the degree and supplementary materials related to projects and designs.
 
-My first real taste of the network work came as a System Engineer at Anyware Communication where I got hands-on in deploying and configuring network devices, troubleshooting service disruptions and documenting infrastructure setups for clients. That gig taught me how a small misconfiguration can snowball into bigger problems – and how satisfying it is to trace down the root cause, and fix it right.
+## About
 
-Before this, I interned in DiiS PSU's Cybersecurity Team, where I used SIEM tools to monitor network traffic for anomalies. It's given me a good eye for normal and abnormal.”
+Hi — I’m Jukrachai (GitHub: @jkznx), a final-year Computer Engineering student at Prince of Songkla University, Thailand. I enjoy networks, Linux, Python, and automation. This repository is a personal archive of university work and is still a work in progress.
 
-I'm comfortable working with TCP/IP, network infrastructure, Linux, and Python, and I enjoy using automation to cut down on repetitive tasks and catch issues faster.
+## Current repository structure
 
-I also do CTF competitions. I placed 6th nationally at Thailand Cyber Top Talent 2025. This really sharpened my ability to think through complex problems under pressure.
+- Year_1/ — Projects, labs, and assignments from the first year
+- Year_2/ — Projects, labs, and assignments from the second year
+- Year_3/ — Projects, labs, and assignments from the third year
+- my_design/ — Design documents, diagrams, and notes for my projects
+- certificate/ — Scans or exports of certificates and competition results
 
-I'm naturally inquisitive, I ask a lot of questions and I care about building things that last. I'd love the chance to contribute to the team and learn what network reliability looks like at scale.
+Note: Some folders may be incomplete or contain drafts. I will continue to add and clean up content over time.
 
-Thanks for the time I'm really excited about this opportunity."
+## Highlights
+
+- Coursework and project materials organized by academic year
+- Design documents and diagrams collected in `my_design/`
+- Certificates and competition results in `certificate/` (e.g., CTF participation)
+
+## How to use
+
+- Browse folders by year to see specific assignments and project files.
+- Open `my_design/` for design diagrams and documentation.
+- Contributions are welcome — open an issue or a pull request if you want to suggest improvements or additions.
+
+## Contact
+
+- GitHub: https://github.com/jkznx
+
+## License
+
+This repository currently has no license specified. Add a LICENSE file if you would like to permit reuse.
